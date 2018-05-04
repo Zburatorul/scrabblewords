@@ -1,0 +1,1024 @@
+[['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', 'C', 'A', 'R', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''], ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '']]
+{'T', 'E', 'D'}
+276643
+True
+               
+               
+     T         
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     E         
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     D         
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     TE        
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     DE        
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     TED       
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+      E        
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+      ED       
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+      ET       
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CART       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARE       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARD       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARTE      
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARED      
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARET      
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARTED     
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+     T         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+     E         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+     D         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+     TE        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+     DE        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+     TED       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+      E        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+      ED       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+      ET       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+    T          
+    E          
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+     T         
+     E         
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+     E         
+     T         
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+     T         
+     E         
+    CAR        
+     D         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     T         
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     E         
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     D         
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     T         
+    CAR        
+     E         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     D         
+    CAR        
+     E         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     E         
+    CAR        
+     T         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     T         
+    CAR        
+     D         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     D         
+    CAR        
+     T         
+     E         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+     T         
+    CAR        
+     E         
+     D         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+     T         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+     E         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+     D         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+     T         
+     E         
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+      E        
+    CAR        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+      E        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+      E        
+      D        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CAR        
+      E        
+      T        
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+       T       
+       E       
+    CARD       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+       T       
+    CARE       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+       E       
+    CARD       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+       D       
+    CARE       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+       E       
+    CART       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+       T       
+    CARE       
+       D       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CART       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARE       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARD       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CART       
+       E       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARE       
+       D       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARD       
+       E       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CARE       
+       T       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+               
+               
+               
+    CART       
+       E       
+       D       
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+T at (row,col) = (2, 5) horizontally
+E at (row,col) = (2, 5) horizontally
+D at (row,col) = (2, 5) horizontally
+TE at (row,col) = (2, 5) horizontally
+DE at (row,col) = (2, 5) horizontally
+TED at (row,col) = (2, 5) horizontally
+E at (row,col) = (2, 6) horizontally
+ED at (row,col) = (2, 6) horizontally
+ET at (row,col) = (2, 6) horizontally
+T at (row,col) = (3, 7) horizontally
+E at (row,col) = (3, 7) horizontally
+D at (row,col) = (3, 7) horizontally
+TE at (row,col) = (3, 7) horizontally
+ED at (row,col) = (3, 7) horizontally
+ET at (row,col) = (3, 7) horizontally
+TED at (row,col) = (3, 7) horizontally
+T at (row,col) = (4, 5) horizontally
+E at (row,col) = (4, 5) horizontally
+D at (row,col) = (4, 5) horizontally
+TE at (row,col) = (4, 5) horizontally
+DE at (row,col) = (4, 5) horizontally
+TED at (row,col) = (4, 5) horizontally
+E at (row,col) = (4, 6) horizontally
+ED at (row,col) = (4, 6) horizontally
+ET at (row,col) = (4, 6) horizontally
+TE at (row,col) = (4, 1) vertically
+TE at (row,col) = (5, 1) vertically
+ET at (row,col) = (5, 1) vertically
+TED at (row,col) = (5, 1) vertically
+T at (row,col) = (5, 2) vertically
+E at (row,col) = (5, 2) vertically
+D at (row,col) = (5, 2) vertically
+TE at (row,col) = (5, 2) vertically
+DE at (row,col) = (5, 2) vertically
+ET at (row,col) = (5, 2) vertically
+TD at (row,col) = (5, 2) vertically
+DTE at (row,col) = (5, 2) vertically
+TED at (row,col) = (5, 2) vertically
+T at (row,col) = (5, 4) vertically
+E at (row,col) = (5, 4) vertically
+D at (row,col) = (5, 4) vertically
+TE at (row,col) = (5, 4) vertically
+E at (row,col) = (6, 2) vertically
+E at (row,col) = (6, 4) vertically
+ED at (row,col) = (6, 4) vertically
+ET at (row,col) = (6, 4) vertically
+TED at (row,col) = (7, 1) vertically
+TE at (row,col) = (7, 2) vertically
+ED at (row,col) = (7, 2) vertically
+DE at (row,col) = (7, 2) vertically
+ET at (row,col) = (7, 2) vertically
+TED at (row,col) = (7, 2) vertically
+T at (row,col) = (7, 3) vertically
+E at (row,col) = (7, 3) vertically
+D at (row,col) = (7, 3) vertically
+TE at (row,col) = (7, 3) vertically
+ED at (row,col) = (7, 3) vertically
+DE at (row,col) = (7, 3) vertically
+ET at (row,col) = (7, 3) vertically
+TED at (row,col) = (7, 3) vertically
